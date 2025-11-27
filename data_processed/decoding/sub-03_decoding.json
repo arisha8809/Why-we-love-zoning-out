@@ -1,0 +1,62 @@
+{
+  "subject": "sub-03",
+  "accuracy": 0.7119955572010367,
+  "perm_p": 0.001996007984031936,
+  "cv_scores": [
+    0.7027027027027027,
+    0.7567567567567568,
+    0.6621621621621622,
+    0.726027397260274,
+    0.7123287671232876
+  ],
+  "confusion": [
+    [
+      156,
+      0,
+      0
+    ],
+    [
+      0,
+      138,
+      0
+    ],
+    [
+      0,
+      0,
+      74
+    ]
+  ],
+  "report": {
+    "0": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 156.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 138.0
+    },
+    "2": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 74.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 368.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 368.0
+    }
+  }
+}

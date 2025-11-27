@@ -1,0 +1,29 @@
+subject_glob: "data_processed/preproc/sub-*_preproc.npz"
+
+out_dir: "data_processed/decoding/lstm_outputs"
+
+# Windowing
+seq_len: 20       # longer window → MUCH better temporal encoding
+stride: 3
+label_mode: "last"
+
+pca_components: null
+
+# LSTM
+hidden_dim: 64
+num_layers: 1
+bidirectional: true
+dropout: 0.2
+num_classes: 3
+
+# Training
+batch_size: 32
+lr: 0.001
+weight_decay: 0.0
+epochs: 40
+patience: 6
+seed: 42
+use_cuda: true
+
+# NEW
+use_class_weights: true

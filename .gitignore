@@ -1,0 +1,9 @@
+﻿data_raw/
+*.nii
+*.nii.gz
+*.mat
+*.npy
+*.h5
+*.zip
+*.tar
+*.gz

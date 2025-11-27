@@ -1,0 +1,1669 @@
+{
+  "subject_left_out": 6,
+  "metrics": {
+    "trial_accuracy": 0.5470085470085471,
+    "trial_auc": null,
+    "n_trials": 117
+  },
+  "trial_predictions": [
+    {
+      "subject": 6,
+      "trial_key_start": 0,
+      "pred_label": 1,
+      "probs": [
+        0.2792237401008606,
+        0.47659528255462646,
+        0.24418093264102936
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        0
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 3,
+      "pred_label": 1,
+      "probs": [
+        0.2705855667591095,
+        0.47605451941490173,
+        0.2533598244190216
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        1
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 6,
+      "pred_label": 0,
+      "probs": [
+        0.3831985294818878,
+        0.34143325686454773,
+        0.27536821365356445
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        2
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 9,
+      "pred_label": 1,
+      "probs": [
+        0.3205624222755432,
+        0.4230460524559021,
+        0.2563914954662323
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        3
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 12,
+      "pred_label": 0,
+      "probs": [
+        0.3716442286968231,
+        0.34882086515426636,
+        0.2795349061489105
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        4
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 15,
+      "pred_label": 0,
+      "probs": [
+        0.5202720165252686,
+        0.3361702561378479,
+        0.14355774223804474
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        5
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 18,
+      "pred_label": 2,
+      "probs": [
+        0.27648448944091797,
+        0.25820961594581604,
+        0.4653059244155884
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        6
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 21,
+      "pred_label": 2,
+      "probs": [
+        0.19632388651371002,
+        0.37420928478240967,
+        0.4294668138027191
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        7
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 24,
+      "pred_label": 1,
+      "probs": [
+        0.3680039346218109,
+        0.41138219833374023,
+        0.22061388194561005
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        8
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 27,
+      "pred_label": 0,
+      "probs": [
+        0.5014338493347168,
+        0.3328724205493927,
+        0.1656937152147293
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        9
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 30,
+      "pred_label": 0,
+      "probs": [
+        0.4189053475856781,
+        0.1956615149974823,
+        0.3854331970214844
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        10
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 33,
+      "pred_label": 0,
+      "probs": [
+        0.49696576595306396,
+        0.3032851219177246,
+        0.1997491419315338
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        11
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 36,
+      "pred_label": 0,
+      "probs": [
+        0.6032223701477051,
+        0.29130691289901733,
+        0.10547070950269699
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        12
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 39,
+      "pred_label": 1,
+      "probs": [
+        0.37298187613487244,
+        0.5578290224075317,
+        0.0691891461610794
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        13
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 42,
+      "pred_label": 0,
+      "probs": [
+        0.4392062723636627,
+        0.38823917508125305,
+        0.17255455255508423
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        14
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 45,
+      "pred_label": 0,
+      "probs": [
+        0.4249553382396698,
+        0.31369706988334656,
+        0.26134762167930603
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        15
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 48,
+      "pred_label": 2,
+      "probs": [
+        0.38631540536880493,
+        0.21140167117118835,
+        0.4022828936576843
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        16
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 51,
+      "pred_label": 0,
+      "probs": [
+        0.4975663125514984,
+        0.3589920699596405,
+        0.14344163239002228
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        17
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 54,
+      "pred_label": 1,
+      "probs": [
+        0.3831418752670288,
+        0.5151192545890808,
+        0.10173889249563217
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        18
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 57,
+      "pred_label": 2,
+      "probs": [
+        0.31189581751823425,
+        0.22437255084514618,
+        0.4637316167354584
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        19
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 60,
+      "pred_label": 2,
+      "probs": [
+        0.33646976947784424,
+        0.1772918850183487,
+        0.4862382709980011
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        20
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 63,
+      "pred_label": 0,
+      "probs": [
+        0.5415539145469666,
+        0.3778245449066162,
+        0.08062155544757843
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        21
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 66,
+      "pred_label": 0,
+      "probs": [
+        0.40430948138237,
+        0.22773030400276184,
+        0.36796021461486816
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        22
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 69,
+      "pred_label": 0,
+      "probs": [
+        0.5295298099517822,
+        0.18824127316474915,
+        0.28222891688346863
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        23
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 72,
+      "pred_label": 0,
+      "probs": [
+        0.5427284836769104,
+        0.15624132752418518,
+        0.3010301887989044
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        24
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 75,
+      "pred_label": 0,
+      "probs": [
+        0.7183652520179749,
+        0.1956782042980194,
+        0.08595656603574753
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        25
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 78,
+      "pred_label": 1,
+      "probs": [
+        0.4207659661769867,
+        0.49210742115974426,
+        0.08712657541036606
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        26
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 81,
+      "pred_label": 0,
+      "probs": [
+        0.59981769323349,
+        0.23819060623645782,
+        0.1619916409254074
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        27
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 84,
+      "pred_label": 1,
+      "probs": [
+        0.4100048542022705,
+        0.5404511094093323,
+        0.04954399913549423
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        28
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 87,
+      "pred_label": 1,
+      "probs": [
+        0.4610731601715088,
+        0.46109098196029663,
+        0.077835813164711
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        29
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 90,
+      "pred_label": 1,
+      "probs": [
+        0.4336729049682617,
+        0.48074716329574585,
+        0.08557997643947601
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        30
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 93,
+      "pred_label": 1,
+      "probs": [
+        0.4091767966747284,
+        0.518189549446106,
+        0.07263368368148804
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        31
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 96,
+      "pred_label": 0,
+      "probs": [
+        0.41050592064857483,
+        0.24949198961257935,
+        0.34000205993652344
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        32
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 99,
+      "pred_label": 2,
+      "probs": [
+        0.24114346504211426,
+        0.15562956035137177,
+        0.6032269597053528
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        33
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 102,
+      "pred_label": 0,
+      "probs": [
+        0.463808536529541,
+        0.19003109633922577,
+        0.3461603820323944
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        34
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 105,
+      "pred_label": 0,
+      "probs": [
+        0.6663027405738831,
+        0.19621820747852325,
+        0.13747908174991608
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        35
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 108,
+      "pred_label": 0,
+      "probs": [
+        0.6961671113967896,
+        0.21884824335575104,
+        0.0849846601486206
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        36
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 111,
+      "pred_label": 0,
+      "probs": [
+        0.679573118686676,
+        0.20066951215267181,
+        0.11975735425949097
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        37
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 114,
+      "pred_label": 0,
+      "probs": [
+        0.6822806000709534,
+        0.2534627318382263,
+        0.06425672769546509
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        38
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 117,
+      "pred_label": 0,
+      "probs": [
+        0.5273087024688721,
+        0.43653011322021484,
+        0.03616122156381607
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        39
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 120,
+      "pred_label": 0,
+      "probs": [
+        0.5370460152626038,
+        0.26483219861984253,
+        0.19812177121639252
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        40
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 123,
+      "pred_label": 0,
+      "probs": [
+        0.4727735221385956,
+        0.1754019856452942,
+        0.35182443261146545
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        41
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 126,
+      "pred_label": 0,
+      "probs": [
+        0.44646990299224854,
+        0.303794264793396,
+        0.24973580241203308
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        42
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 129,
+      "pred_label": 1,
+      "probs": [
+        0.11240419000387192,
+        0.8788957595825195,
+        0.008700096048414707
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        43
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 132,
+      "pred_label": 1,
+      "probs": [
+        0.15152359008789062,
+        0.7895845770835876,
+        0.05889192223548889
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        44
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 135,
+      "pred_label": 1,
+      "probs": [
+        0.2554364800453186,
+        0.6244720220565796,
+        0.12009149044752121
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        45
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 138,
+      "pred_label": 1,
+      "probs": [
+        0.23001030087471008,
+        0.7125247120857239,
+        0.05746501684188843
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        46
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 141,
+      "pred_label": 1,
+      "probs": [
+        0.222736194729805,
+        0.7026057839393616,
+        0.07465803623199463
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        47
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 144,
+      "pred_label": 1,
+      "probs": [
+        0.17962263524532318,
+        0.7606920003890991,
+        0.059685368090867996
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        48
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 147,
+      "pred_label": 1,
+      "probs": [
+        0.24956612288951874,
+        0.46073800325393677,
+        0.2896958589553833
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        49
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 150,
+      "pred_label": 1,
+      "probs": [
+        0.36861443519592285,
+        0.4062438905239105,
+        0.22514168918132782
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        50
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 153,
+      "pred_label": 1,
+      "probs": [
+        0.41712015867233276,
+        0.5244629979133606,
+        0.05841689184308052
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        51
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 156,
+      "pred_label": 1,
+      "probs": [
+        0.23075750470161438,
+        0.7282304167747498,
+        0.04101209715008736
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        52
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 159,
+      "pred_label": 1,
+      "probs": [
+        0.10597268491983414,
+        0.8583798408508301,
+        0.03564751148223877
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        53
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 162,
+      "pred_label": 1,
+      "probs": [
+        0.20662441849708557,
+        0.7067423462867737,
+        0.08663325011730194
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        54
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 165,
+      "pred_label": 1,
+      "probs": [
+        0.30383527278900146,
+        0.4793732464313507,
+        0.2167915403842926
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        55
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 168,
+      "pred_label": 1,
+      "probs": [
+        0.23024310171604156,
+        0.5226647257804871,
+        0.247092142701149
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        56
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 171,
+      "pred_label": 1,
+      "probs": [
+        0.17322610318660736,
+        0.6875874996185303,
+        0.13918638229370117
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        57
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 174,
+      "pred_label": 1,
+      "probs": [
+        0.09812521189451218,
+        0.839368462562561,
+        0.06250631809234619
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        58
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 177,
+      "pred_label": 1,
+      "probs": [
+        0.1726377159357071,
+        0.5254430770874023,
+        0.30191919207572937
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        59
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 180,
+      "pred_label": 2,
+      "probs": [
+        0.13375766575336456,
+        0.18710514903068542,
+        0.6791371703147888
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        60
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 183,
+      "pred_label": 2,
+      "probs": [
+        0.17893178761005402,
+        0.14876972138881683,
+        0.6722984910011292
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        61
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 186,
+      "pred_label": 2,
+      "probs": [
+        0.19717396795749664,
+        0.2150736004114151,
+        0.5877524614334106
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        62
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 189,
+      "pred_label": 1,
+      "probs": [
+        0.23250021040439606,
+        0.46659162640571594,
+        0.3009081482887268
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        63
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 192,
+      "pred_label": 2,
+      "probs": [
+        0.2256127893924713,
+        0.21755270659923553,
+        0.5568344593048096
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        64
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 195,
+      "pred_label": 2,
+      "probs": [
+        0.2924887239933014,
+        0.2305970937013626,
+        0.4769141972064972
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        65
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 198,
+      "pred_label": 0,
+      "probs": [
+        0.37385377287864685,
+        0.26487839221954346,
+        0.3612678349018097
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        66
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 201,
+      "pred_label": 1,
+      "probs": [
+        0.2378012239933014,
+        0.5582037568092346,
+        0.2039949595928192
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        67
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 204,
+      "pred_label": 1,
+      "probs": [
+        0.3117434084415436,
+        0.6074034571647644,
+        0.08085315674543381
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        68
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 207,
+      "pred_label": 2,
+      "probs": [
+        0.11521100997924805,
+        0.10906565189361572,
+        0.7757232785224915
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        69
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 210,
+      "pred_label": 2,
+      "probs": [
+        0.17617638409137726,
+        0.12183591723442078,
+        0.7019877433776855
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        70
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 213,
+      "pred_label": 0,
+      "probs": [
+        0.40006425976753235,
+        0.25316423177719116,
+        0.34677156805992126
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        71
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 216,
+      "pred_label": 0,
+      "probs": [
+        0.4284289479255676,
+        0.35325565934181213,
+        0.21831540763378143
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        72
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 219,
+      "pred_label": 1,
+      "probs": [
+        0.25139057636260986,
+        0.6224580407142639,
+        0.1261514127254486
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        73
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 222,
+      "pred_label": 1,
+      "probs": [
+        0.2118687778711319,
+        0.5567746758460999,
+        0.23135659098625183
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        74
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 225,
+      "pred_label": 2,
+      "probs": [
+        0.12871570885181427,
+        0.38788339495658875,
+        0.4834008812904358
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        75
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 228,
+      "pred_label": 2,
+      "probs": [
+        0.19887688755989075,
+        0.1499110758304596,
+        0.6512120366096497
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        76
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 231,
+      "pred_label": 2,
+      "probs": [
+        0.3269442021846771,
+        0.17211595177650452,
+        0.5009398460388184
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        77
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 234,
+      "pred_label": 0,
+      "probs": [
+        0.5474691987037659,
+        0.32325470447540283,
+        0.1292761117219925
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        78
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 237,
+      "pred_label": 0,
+      "probs": [
+        0.6072563529014587,
+        0.34377747774124146,
+        0.048966217786073685
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        79
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 240,
+      "pred_label": 1,
+      "probs": [
+        0.18172453343868256,
+        0.7281955480575562,
+        0.09007991850376129
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        80
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 243,
+      "pred_label": 0,
+      "probs": [
+        0.43819016218185425,
+        0.42519721388816833,
+        0.1366126537322998
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        81
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 246,
+      "pred_label": 1,
+      "probs": [
+        0.305235892534256,
+        0.3790953457355499,
+        0.3156687021255493
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        82
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 249,
+      "pred_label": 0,
+      "probs": [
+        0.37326526641845703,
+        0.3113947808742523,
+        0.31533995270729065
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        83
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 252,
+      "pred_label": 0,
+      "probs": [
+        0.4262739419937134,
+        0.33018386363983154,
+        0.24354222416877747
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        84
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 255,
+      "pred_label": 0,
+      "probs": [
+        0.5356695652008057,
+        0.36118075251579285,
+        0.10314972698688507
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        85
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 258,
+      "pred_label": 1,
+      "probs": [
+        0.38577231764793396,
+        0.4638872742652893,
+        0.1503404676914215
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        86
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 261,
+      "pred_label": 1,
+      "probs": [
+        0.359504759311676,
+        0.48373380303382874,
+        0.15676137804985046
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        87
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 264,
+      "pred_label": 1,
+      "probs": [
+        0.37667059898376465,
+        0.47667351365089417,
+        0.14665590226650238
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        88
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 267,
+      "pred_label": 1,
+      "probs": [
+        0.23641061782836914,
+        0.7134613990783691,
+        0.0501280277967453
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        89
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 270,
+      "pred_label": 1,
+      "probs": [
+        0.38514962792396545,
+        0.3863803446292877,
+        0.22847004234790802
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        90
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 273,
+      "pred_label": 1,
+      "probs": [
+        0.26410120725631714,
+        0.6686258912086487,
+        0.06727281957864761
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        91
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 276,
+      "pred_label": 1,
+      "probs": [
+        0.284980833530426,
+        0.6528397798538208,
+        0.06217940151691437
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        92
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 279,
+      "pred_label": 0,
+      "probs": [
+        0.6234487891197205,
+        0.3197924792766571,
+        0.05675869435071945
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        93
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 282,
+      "pred_label": 1,
+      "probs": [
+        0.21876995265483856,
+        0.6440169215202332,
+        0.1372130960226059
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        94
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 285,
+      "pred_label": 0,
+      "probs": [
+        0.41349345445632935,
+        0.32750338315963745,
+        0.2590031027793884
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        95
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 288,
+      "pred_label": 0,
+      "probs": [
+        0.5542815327644348,
+        0.30256780982017517,
+        0.14315065741539001
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        96
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 291,
+      "pred_label": 1,
+      "probs": [
+        0.18840573728084564,
+        0.802155613899231,
+        0.009438748471438885
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        97
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 294,
+      "pred_label": 1,
+      "probs": [
+        0.23445287346839905,
+        0.7589701414108276,
+        0.006576976273208857
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        98
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 297,
+      "pred_label": 0,
+      "probs": [
+        0.6545091271400452,
+        0.32940325140953064,
+        0.01608760841190815
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        99
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 300,
+      "pred_label": 0,
+      "probs": [
+        0.7334161400794983,
+        0.1599351316690445,
+        0.10664874315261841
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        100
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 303,
+      "pred_label": 0,
+      "probs": [
+        0.4516044557094574,
+        0.26576822996139526,
+        0.28262725472450256
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        101
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 306,
+      "pred_label": 0,
+      "probs": [
+        0.5682086944580078,
+        0.25106677412986755,
+        0.18072451651096344
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        102
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 309,
+      "pred_label": 0,
+      "probs": [
+        0.5797712802886963,
+        0.23401686549186707,
+        0.18621188402175903
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        103
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 312,
+      "pred_label": 0,
+      "probs": [
+        0.5717664957046509,
+        0.28662028908729553,
+        0.14161317050457
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        104
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 315,
+      "pred_label": 0,
+      "probs": [
+        0.4385717809200287,
+        0.42130979895591736,
+        0.14011849462985992
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        105
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 318,
+      "pred_label": 1,
+      "probs": [
+        0.2471601814031601,
+        0.6331340074539185,
+        0.11970580369234085
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        106
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 321,
+      "pred_label": 2,
+      "probs": [
+        0.27221742272377014,
+        0.19458118081092834,
+        0.5332013964653015
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        107
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 324,
+      "pred_label": 1,
+      "probs": [
+        0.30048221349716187,
+        0.4173588454723358,
+        0.2821589410305023
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        108
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 327,
+      "pred_label": 1,
+      "probs": [
+        0.3493117094039917,
+        0.48424386978149414,
+        0.16644436120986938
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        109
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 330,
+      "pred_label": 1,
+      "probs": [
+        0.16944620013237,
+        0.8207498788833618,
+        0.009803921915590763
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        110
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 333,
+      "pred_label": 1,
+      "probs": [
+        0.39008191227912903,
+        0.5984371900558472,
+        0.011480933055281639
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        111
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 336,
+      "pred_label": 1,
+      "probs": [
+        0.3781192898750305,
+        0.6135939359664917,
+        0.008286795578897
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        112
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 339,
+      "pred_label": 0,
+      "probs": [
+        0.5118449330329895,
+        0.47346562147140503,
+        0.014689481817185879
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        113
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 342,
+      "pred_label": 2,
+      "probs": [
+        0.34111225605010986,
+        0.0970417931675911,
+        0.5618460178375244
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        114
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 345,
+      "pred_label": 0,
+      "probs": [
+        0.569063663482666,
+        0.3078549802303314,
+        0.12308134883642197
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        115
+      ]
+    },
+    {
+      "subject": 6,
+      "trial_key_start": 348,
+      "pred_label": 0,
+      "probs": [
+        0.6053046584129333,
+        0.2913650572299957,
+        0.10333026200532913
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        116
+      ]
+    }
+  ],
+  "config": {
+    "subject_glob": "data_processed/preproc/sub-*_preproc.npz",
+    "out_dir": "data_processed/decoding/lstm_outputs",
+    "seq_len": 20,
+    "stride": 3,
+    "label_mode": "last",
+    "pca_components": null,
+    "hidden_dim": 64,
+    "num_layers": 1,
+    "bidirectional": true,
+    "dropout": 0.2,
+    "num_classes": 3,
+    "batch_size": 32,
+    "lr": 0.001,
+    "weight_decay": 0.0,
+    "epochs": 40,
+    "patience": 6,
+    "seed": 42,
+    "use_cuda": true,
+    "use_class_weights": true
+  }
+}

@@ -1,0 +1,1669 @@
+{
+  "subject_left_out": 14,
+  "metrics": {
+    "trial_accuracy": 0.46153846153846156,
+    "trial_auc": null,
+    "n_trials": 117
+  },
+  "trial_predictions": [
+    {
+      "subject": 14,
+      "trial_key_start": 0,
+      "pred_label": 0,
+      "probs": [
+        0.4698754847049713,
+        0.3259715735912323,
+        0.20415298640727997
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        0
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 3,
+      "pred_label": 0,
+      "probs": [
+        0.4608878195285797,
+        0.2898454964160919,
+        0.24926674365997314
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        1
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 6,
+      "pred_label": 0,
+      "probs": [
+        0.4859064817428589,
+        0.3469586670398712,
+        0.16713479161262512
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        2
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 9,
+      "pred_label": 0,
+      "probs": [
+        0.40256819128990173,
+        0.3217461109161377,
+        0.27568569779396057
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        3
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 12,
+      "pred_label": 0,
+      "probs": [
+        0.41881754994392395,
+        0.29834023118019104,
+        0.2828422486782074
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        4
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 15,
+      "pred_label": 0,
+      "probs": [
+        0.47597038745880127,
+        0.3377930223941803,
+        0.18623660504817963
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        5
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 18,
+      "pred_label": 0,
+      "probs": [
+        0.37779948115348816,
+        0.3184269964694977,
+        0.3037734925746918
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        6
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 21,
+      "pred_label": 0,
+      "probs": [
+        0.46629852056503296,
+        0.3406628668308258,
+        0.19303858280181885
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        7
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 24,
+      "pred_label": 0,
+      "probs": [
+        0.45603638887405396,
+        0.3400760591030121,
+        0.20388756692409515
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        8
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 27,
+      "pred_label": 0,
+      "probs": [
+        0.4166682958602905,
+        0.3684267997741699,
+        0.21490484476089478
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        9
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 30,
+      "pred_label": 0,
+      "probs": [
+        0.37191855907440186,
+        0.3589296340942383,
+        0.26915180683135986
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        10
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 33,
+      "pred_label": 0,
+      "probs": [
+        0.5088241696357727,
+        0.3177759647369385,
+        0.17339985072612762
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        11
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 36,
+      "pred_label": 0,
+      "probs": [
+        0.3933996856212616,
+        0.31113752722740173,
+        0.2954627573490143
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        12
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 39,
+      "pred_label": 0,
+      "probs": [
+        0.4071749150753021,
+        0.36177122592926025,
+        0.23105387389659882
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        13
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 42,
+      "pred_label": 0,
+      "probs": [
+        0.48647114634513855,
+        0.32694658637046814,
+        0.18658223748207092
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        14
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 45,
+      "pred_label": 0,
+      "probs": [
+        0.5519799590110779,
+        0.3196052312850952,
+        0.1284148246049881
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        15
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 48,
+      "pred_label": 0,
+      "probs": [
+        0.5931546092033386,
+        0.3099595606327057,
+        0.09688588231801987
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        16
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 51,
+      "pred_label": 0,
+      "probs": [
+        0.5045480728149414,
+        0.3398456573486328,
+        0.15560631453990936
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        17
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 54,
+      "pred_label": 0,
+      "probs": [
+        0.5116804838180542,
+        0.29139575362205505,
+        0.19692371785640717
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        18
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 57,
+      "pred_label": 0,
+      "probs": [
+        0.47162485122680664,
+        0.30021148920059204,
+        0.22816361486911774
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        19
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 60,
+      "pred_label": 1,
+      "probs": [
+        0.29760172963142395,
+        0.4480363130569458,
+        0.25436195731163025
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        20
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 63,
+      "pred_label": 0,
+      "probs": [
+        0.4925886392593384,
+        0.3124249279499054,
+        0.1949864774942398
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        21
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 66,
+      "pred_label": 0,
+      "probs": [
+        0.5723965167999268,
+        0.3308241367340088,
+        0.09677935391664505
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        22
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 69,
+      "pred_label": 0,
+      "probs": [
+        0.608542799949646,
+        0.2956564128398895,
+        0.09580080211162567
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        23
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 72,
+      "pred_label": 0,
+      "probs": [
+        0.5981909036636353,
+        0.2933948040008545,
+        0.10841428488492966
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        24
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 75,
+      "pred_label": 0,
+      "probs": [
+        0.5192883014678955,
+        0.36626115441322327,
+        0.11445058882236481
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        25
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 78,
+      "pred_label": 0,
+      "probs": [
+        0.4177805483341217,
+        0.4142264723777771,
+        0.1679929941892624
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        26
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 81,
+      "pred_label": 0,
+      "probs": [
+        0.4709553122520447,
+        0.3931577503681183,
+        0.13588690757751465
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        27
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 84,
+      "pred_label": 0,
+      "probs": [
+        0.4160884916782379,
+        0.40818268060684204,
+        0.17572878301143646
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        28
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 87,
+      "pred_label": 1,
+      "probs": [
+        0.39277738332748413,
+        0.40051600337028503,
+        0.20670661330223083
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        29
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 90,
+      "pred_label": 0,
+      "probs": [
+        0.3843963146209717,
+        0.3163429796695709,
+        0.2992607057094574
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        30
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 93,
+      "pred_label": 0,
+      "probs": [
+        0.5304283499717712,
+        0.30149638652801514,
+        0.16807527840137482
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        31
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 96,
+      "pred_label": 0,
+      "probs": [
+        0.626265287399292,
+        0.30051952600479126,
+        0.07321518659591675
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        32
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 99,
+      "pred_label": 0,
+      "probs": [
+        0.5991764664649963,
+        0.32594525814056396,
+        0.07487837970256805
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        33
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 102,
+      "pred_label": 1,
+      "probs": [
+        0.4184691905975342,
+        0.462294340133667,
+        0.11923648416996002
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        34
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 105,
+      "pred_label": 0,
+      "probs": [
+        0.518483579158783,
+        0.34648677706718445,
+        0.13502968847751617
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        35
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 108,
+      "pred_label": 0,
+      "probs": [
+        0.4348140358924866,
+        0.33406245708465576,
+        0.23112350702285767
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        36
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 111,
+      "pred_label": 0,
+      "probs": [
+        0.5258519053459167,
+        0.3619230389595032,
+        0.11222507059574127
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        37
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 114,
+      "pred_label": 0,
+      "probs": [
+        0.5015923976898193,
+        0.3470478355884552,
+        0.15135976672172546
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        38
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 117,
+      "pred_label": 0,
+      "probs": [
+        0.555421769618988,
+        0.3542168140411377,
+        0.09036140888929367
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        39
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 120,
+      "pred_label": 0,
+      "probs": [
+        0.4402046203613281,
+        0.43010616302490234,
+        0.1296892613172531
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        40
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 123,
+      "pred_label": 0,
+      "probs": [
+        0.4882795214653015,
+        0.3680140972137451,
+        0.14370638132095337
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        41
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 126,
+      "pred_label": 0,
+      "probs": [
+        0.5746506452560425,
+        0.3390401005744934,
+        0.08630914241075516
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        42
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 129,
+      "pred_label": 0,
+      "probs": [
+        0.5014625787734985,
+        0.37744688987731934,
+        0.12109053879976273
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        43
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 132,
+      "pred_label": 1,
+      "probs": [
+        0.35843080282211304,
+        0.48289185762405396,
+        0.1586773544549942
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        44
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 135,
+      "pred_label": 0,
+      "probs": [
+        0.5886073112487793,
+        0.3238488733768463,
+        0.08754380792379379
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        45
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 138,
+      "pred_label": 1,
+      "probs": [
+        0.40827247500419617,
+        0.41472336649894714,
+        0.17700409889221191
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        46
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 141,
+      "pred_label": 0,
+      "probs": [
+        0.44033509492874146,
+        0.42893970012664795,
+        0.13072523474693298
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        47
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 144,
+      "pred_label": 0,
+      "probs": [
+        0.5459551811218262,
+        0.3511755168437958,
+        0.10286930948495865
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        48
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 147,
+      "pred_label": 1,
+      "probs": [
+        0.3181603252887726,
+        0.552291989326477,
+        0.12954767048358917
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        49
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 150,
+      "pred_label": 1,
+      "probs": [
+        0.4313037693500519,
+        0.45847731828689575,
+        0.11021891236305237
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        50
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 153,
+      "pred_label": 1,
+      "probs": [
+        0.4522083103656769,
+        0.49200305342674255,
+        0.05578862130641937
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        51
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 156,
+      "pred_label": 1,
+      "probs": [
+        0.3249463737010956,
+        0.516075849533081,
+        0.15897777676582336
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        52
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 159,
+      "pred_label": 1,
+      "probs": [
+        0.2618594169616699,
+        0.5946388840675354,
+        0.1435016393661499
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        53
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 162,
+      "pred_label": 1,
+      "probs": [
+        0.10136333107948303,
+        0.8606896996498108,
+        0.03794706240296364
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        54
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 165,
+      "pred_label": 1,
+      "probs": [
+        0.28859856724739075,
+        0.5761751532554626,
+        0.13522620499134064
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        55
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 168,
+      "pred_label": 1,
+      "probs": [
+        0.2649918496608734,
+        0.5803573727607727,
+        0.15465079247951508
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        56
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 171,
+      "pred_label": 1,
+      "probs": [
+        0.2478836476802826,
+        0.46304240822792053,
+        0.2890739440917969
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        57
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 174,
+      "pred_label": 2,
+      "probs": [
+        0.1356171816587448,
+        0.25045350193977356,
+        0.6139293313026428
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        58
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 177,
+      "pred_label": 2,
+      "probs": [
+        0.10224714130163193,
+        0.16496098041534424,
+        0.7327918410301208
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        59
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 180,
+      "pred_label": 2,
+      "probs": [
+        0.11647927016019821,
+        0.15369725227355957,
+        0.7298234701156616
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        60
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 183,
+      "pred_label": 2,
+      "probs": [
+        0.1313105821609497,
+        0.16111627221107483,
+        0.7075731754302979
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        61
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 186,
+      "pred_label": 2,
+      "probs": [
+        0.19531269371509552,
+        0.2307000607252121,
+        0.5739872455596924
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        62
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 189,
+      "pred_label": 2,
+      "probs": [
+        0.21539847552776337,
+        0.24696774780750275,
+        0.5376338362693787
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        63
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 192,
+      "pred_label": 2,
+      "probs": [
+        0.27672362327575684,
+        0.298912912607193,
+        0.42436349391937256
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        64
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 195,
+      "pred_label": 1,
+      "probs": [
+        0.27546432614326477,
+        0.3675169050693512,
+        0.3570187985897064
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        65
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 198,
+      "pred_label": 2,
+      "probs": [
+        0.1926313042640686,
+        0.3159288763999939,
+        0.4914397895336151
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        66
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 201,
+      "pred_label": 2,
+      "probs": [
+        0.19887442886829376,
+        0.26802706718444824,
+        0.5330984592437744
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        67
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 204,
+      "pred_label": 2,
+      "probs": [
+        0.3260889947414398,
+        0.26717397570610046,
+        0.4067370295524597
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        68
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 207,
+      "pred_label": 1,
+      "probs": [
+        0.2717157006263733,
+        0.47084349393844604,
+        0.25744083523750305
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        69
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 210,
+      "pred_label": 2,
+      "probs": [
+        0.2199944704771042,
+        0.24540404975414276,
+        0.5346014499664307
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        70
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 213,
+      "pred_label": 2,
+      "probs": [
+        0.1829690784215927,
+        0.36343255639076233,
+        0.4535984396934509
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        71
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 216,
+      "pred_label": 2,
+      "probs": [
+        0.2983642816543579,
+        0.2560673952102661,
+        0.445568323135376
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        72
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 219,
+      "pred_label": 2,
+      "probs": [
+        0.26157477498054504,
+        0.23072470724582672,
+        0.507700502872467
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        73
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 222,
+      "pred_label": 2,
+      "probs": [
+        0.16002410650253296,
+        0.20700252056121826,
+        0.6329734325408936
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        74
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 225,
+      "pred_label": 2,
+      "probs": [
+        0.2497575730085373,
+        0.1871364861726761,
+        0.5631059408187866
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        75
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 228,
+      "pred_label": 2,
+      "probs": [
+        0.3208450675010681,
+        0.2548576295375824,
+        0.4242973327636719
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        76
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 231,
+      "pred_label": 2,
+      "probs": [
+        0.3362565040588379,
+        0.26376503705978394,
+        0.39997848868370056
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        77
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 234,
+      "pred_label": 2,
+      "probs": [
+        0.2515997886657715,
+        0.2968348562717438,
+        0.45156538486480713
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        78
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 237,
+      "pred_label": 2,
+      "probs": [
+        0.35534241795539856,
+        0.2864838242530823,
+        0.3581737279891968
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        79
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 240,
+      "pred_label": 1,
+      "probs": [
+        0.2677594721317291,
+        0.4701240062713623,
+        0.2621164619922638
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        80
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 243,
+      "pred_label": 1,
+      "probs": [
+        0.32596728205680847,
+        0.36522775888442993,
+        0.3088049590587616
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        81
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 246,
+      "pred_label": 2,
+      "probs": [
+        0.20993775129318237,
+        0.2349344938993454,
+        0.5551277995109558
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        82
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 249,
+      "pred_label": 2,
+      "probs": [
+        0.1648147702217102,
+        0.11182179301977158,
+        0.7233633995056152
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        83
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 252,
+      "pred_label": 2,
+      "probs": [
+        0.1795428842306137,
+        0.14273247122764587,
+        0.6777245998382568
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        84
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 255,
+      "pred_label": 2,
+      "probs": [
+        0.3525597155094147,
+        0.19579915702342987,
+        0.4516410827636719
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        85
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 258,
+      "pred_label": 0,
+      "probs": [
+        0.39487501978874207,
+        0.2552834749221802,
+        0.34984150528907776
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        86
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 261,
+      "pred_label": 2,
+      "probs": [
+        0.30496180057525635,
+        0.31677359342575073,
+        0.37826457619667053
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        87
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 264,
+      "pred_label": 1,
+      "probs": [
+        0.31899601221084595,
+        0.405320942401886,
+        0.27568307518959045
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        88
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 267,
+      "pred_label": 0,
+      "probs": [
+        0.3724128305912018,
+        0.3324276804924011,
+        0.2951594293117523
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        89
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 270,
+      "pred_label": 0,
+      "probs": [
+        0.39596128463745117,
+        0.361051082611084,
+        0.24298763275146484
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        90
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 273,
+      "pred_label": 0,
+      "probs": [
+        0.35771676898002625,
+        0.32814812660217285,
+        0.3141351044178009
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        91
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 276,
+      "pred_label": 0,
+      "probs": [
+        0.39310213923454285,
+        0.27113258838653564,
+        0.3357653021812439
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        92
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 279,
+      "pred_label": 2,
+      "probs": [
+        0.09536238014698029,
+        0.06543899327516556,
+        0.839198648929596
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        93
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 282,
+      "pred_label": 2,
+      "probs": [
+        0.10624103993177414,
+        0.07638448476791382,
+        0.8173744678497314
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        94
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 285,
+      "pred_label": 2,
+      "probs": [
+        0.2015209197998047,
+        0.13932514190673828,
+        0.659153938293457
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        95
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 288,
+      "pred_label": 2,
+      "probs": [
+        0.25516292452812195,
+        0.15920186042785645,
+        0.5856351852416992
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        96
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 291,
+      "pred_label": 0,
+      "probs": [
+        0.46903419494628906,
+        0.2261231541633606,
+        0.30484262108802795
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        97
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 294,
+      "pred_label": 1,
+      "probs": [
+        0.37494587898254395,
+        0.37559741735458374,
+        0.24945668876171112
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        98
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 297,
+      "pred_label": 0,
+      "probs": [
+        0.43749746680259705,
+        0.3598489463329315,
+        0.20265354216098785
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        99
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 300,
+      "pred_label": 0,
+      "probs": [
+        0.4340558350086212,
+        0.2634109556674957,
+        0.30253323912620544
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        100
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 303,
+      "pred_label": 0,
+      "probs": [
+        0.41122719645500183,
+        0.3071841895580292,
+        0.28158867359161377
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        101
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 306,
+      "pred_label": 0,
+      "probs": [
+        0.4599033296108246,
+        0.31805795431137085,
+        0.22203873097896576
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        102
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 309,
+      "pred_label": 0,
+      "probs": [
+        0.4019283056259155,
+        0.3250481188297272,
+        0.2730235457420349
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        103
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 312,
+      "pred_label": 2,
+      "probs": [
+        0.3634048402309418,
+        0.2687382698059082,
+        0.36785688996315
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        104
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 315,
+      "pred_label": 1,
+      "probs": [
+        0.0861162319779396,
+        0.8782448172569275,
+        0.0356389619410038
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        105
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 318,
+      "pred_label": 1,
+      "probs": [
+        0.22554898262023926,
+        0.6600716710090637,
+        0.11437933146953583
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        106
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 321,
+      "pred_label": 2,
+      "probs": [
+        0.1882801651954651,
+        0.16711413860321045,
+        0.6446056365966797
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        107
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 324,
+      "pred_label": 2,
+      "probs": [
+        0.10519253462553024,
+        0.05173688381910324,
+        0.8430705666542053
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        108
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 327,
+      "pred_label": 2,
+      "probs": [
+        0.15978817641735077,
+        0.029785141348838806,
+        0.810426652431488
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        109
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 330,
+      "pred_label": 2,
+      "probs": [
+        0.27884653210639954,
+        0.04645776003599167,
+        0.6746957302093506
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        110
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 333,
+      "pred_label": 2,
+      "probs": [
+        0.2805544435977936,
+        0.11241483688354492,
+        0.6070307493209839
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        111
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 336,
+      "pred_label": 0,
+      "probs": [
+        0.527329683303833,
+        0.18724465370178223,
+        0.28542566299438477
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        112
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 339,
+      "pred_label": 0,
+      "probs": [
+        0.519357442855835,
+        0.24271804094314575,
+        0.2379245162010193
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        113
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 342,
+      "pred_label": 0,
+      "probs": [
+        0.42546346783638,
+        0.26925238966941833,
+        0.30528414249420166
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        114
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 345,
+      "pred_label": 2,
+      "probs": [
+        0.13456667959690094,
+        0.04536174610257149,
+        0.8200715780258179
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        115
+      ]
+    },
+    {
+      "subject": 14,
+      "trial_key_start": 348,
+      "pred_label": 2,
+      "probs": [
+        0.32377558946609497,
+        0.08574354648590088,
+        0.5904809236526489
+      ],
+      "n_windows": 1,
+      "window_idxs": [
+        116
+      ]
+    }
+  ],
+  "config": {
+    "subject_glob": "data_processed/preproc/sub-*_preproc.npz",
+    "out_dir": "data_processed/decoding/lstm_outputs",
+    "seq_len": 20,
+    "stride": 3,
+    "label_mode": "last",
+    "pca_components": null,
+    "hidden_dim": 64,
+    "num_layers": 1,
+    "bidirectional": true,
+    "dropout": 0.2,
+    "num_classes": 3,
+    "batch_size": 32,
+    "lr": 0.001,
+    "weight_decay": 0.0,
+    "epochs": 40,
+    "patience": 6,
+    "seed": 42,
+    "use_cuda": true,
+    "use_class_weights": true
+  }
+}
