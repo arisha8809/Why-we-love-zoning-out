@@ -1,50 +1,73 @@
-```markdown
-# Why We Love Zoning Out — fMRI + Deep Learning Analysis
-A complete analysis pipeline exploring how the human brain responds to calm, neutral and shocking moments in a naturalistic story (Alice in Wonderland). This repository includes preprocessing, Yeo-7 network extraction, event-locked responses, ISC, decoding models, and the full written article.
+# Why We Love Zoning Out — fMRI + Deep Learning Analysis  
+
+A complete analysis pipeline exploring how the human brain responds to calm, neutral, and shocking moments using naturalistic fMRI data.
 
 ---
 
-## Overview
+## Overview  
 
 This project analyzes a publicly released naturalistic fMRI dataset where participants listened to *Alice in Wonderland*.  
-The goal is to understand why fictional events can feel real by examining how large-scale brain networks react to different types of narrative moments.
+The goal is to understand why fictional events can feel real by examining how large-scale brain networks react to different narrative events.
 
 The repository provides:
 
 - Full preprocessing pipeline for raw fMRI  
-- Extraction of Yeo-7 network timecourses  
-- Event-locked responses for calm, neutral and shocking events  
+- Extraction of Yeo-7 network timeseries  
+- Event-locked responses for calm, neutral, and shocking events  
 - Limbic anticipation curves  
 - Inter-subject correlation (ISC) and sliding-window ISC  
 - LSTM decoder with leave-one-subject-out (LOSO) evaluation  
-- The complete article: **"Why We Love Zoning Out"**
+- The complete article: **“Why We Love Zoning Out”**  
 
 All analyses are fully reproducible.
 
 ---
 
-## Project Structure
+## Dataset Download  
+
+This project uses the **ALICE fMRI dataset**, a naturalistic story-listening dataset.
+
+Download from:
+
+🔗 **OpenNeuro – ALICE fMRI dataset**  
+https://openneuro.org/datasets/ds004097
+
+This includes:
+- 15 participants  
+- Whole-brain fMRI  
+- Story audio aligned with TR  
+- Event markers & annotations  
+
+After downloading, place the data inside:
 
 ```
-ALICE fMRI/
+data_raw/
+```
+
+This folder is **ignored by Git**.
+
+---
+
+## Project Structure  
+
+```
+ALICE_fMRI/
 │
 ├── configs/
-│
 ├── data_processed/
-│   ├── decoding/
-│   ├── events/
-│   ├── group_event_locked/
-│   ├── group_level/
-│   ├── pca_features/
-│   ├── preproc/
-│   ├── quality_checks/
-│   ├── timeseries/
-│   └── tr_labels/
+├── decoding/
+├── events/
+├── group_event_locked/
+├── group_level/
+├── pca_features/
+├── preproc/
+├── quality_checks/
+├── timeseries/
+├── tr_labels/
 │
-├── data_raw/
+├── data_raw/                # (Ignored) raw fMRI data
 │
 ├── results/
-│   └── figures/
 │
 ├── scripts/
 │   ├── compute_pca.py
@@ -60,93 +83,40 @@ ALICE fMRI/
 │   ├── preprocess_subject.py
 │   ├── run_all.py
 │   ├── run_one_subject.py
-│   └── results.py
+│   └── alice-text.txt
 │
 ├── src/
-│   ├── data/
-│   ├── models/
-│   ├── train/
-│   └── utils/
-│
-├── run_lstm.py
-├── alice-text.txt
-├── requirements.txt
-└── why we love zoning out.pdf
+├── train/
+└── utils/
 ```
 
 ---
 
-## Dataset Source
+## Running the Pipeline  
 
-This project uses the **Alice in Wonderland naturalistic fMRI dataset**, collected by the **Princeton Neuroscience Institute (PNI), Princeton University**.
+Run the entire pipeline using:
 
-Dataset reference:
-
-> *Alice in Wonderland naturalistic fMRI dataset, Princeton Neuroscience Institute.*  
-> Publicly available through PNI data portals and mirrors such as OpenNeuro.
-
-This dataset is widely used for naturalistic neuroscience research.
-
----
-
-## Key Analyses Included
-
-### Event-Locked Responses  
-Network activity before, during and after calm, neutral and shocking events.
-
-### Limbic Anticipation  
-Shows emotional build-up before shocking moments.
-
-### Inter-Subject Correlation (ISC)  
-Measures how similarly different participants' brains respond.
-
-### Sliding-Window ISC  
-Tracks shared attention over time.
-
-### LSTM Decoding (LOSO)  
-Uses only seven networks to predict whether a moment is calm, neutral or shocking.
-
----
-
-## How to Run Everything
-
-### 1. Install dependencies
 ```bash
-pip install -r requirements.txt
+python run_all.py
 ```
 
-### 2. Preprocess fMRI data  
-Place raw data in `data_raw/` and run:
-```bash
-python scripts/run_all.py
-```
-
-### 3. Train the LSTM decoder
-```bash
-python run_lstm.py --config configs/lstm_config.yaml
-```
-
-### 4. Generate all publication figures
-```bash
-python scripts/results.py
-```
-
-Outputs are saved in:
-```
-results/figures/
-```
+This automatically:
+- Preprocesses raw data  
+- Extracts Yeo-7 network signals  
+- Generates TR labels  
+- Computes ISC and sliding-window ISC  
+- Trains/validates the LSTM decoder  
+- Saves all final figures and metrics  
 
 ---
 
-## Included Article
+## Citation  
 
-The repository includes the complete written piece:
-
-**`why we love zoning out.pdf`**
+If you use this repository, please cite the ALICE dataset and this analysis pipeline.
 
 ---
 
-## License
+## Contact  
 
-This project is open-source. You may use, modify or extend the code with attribution.
-```
+For questions or collaboration:  
+📧 arisha8809@gmail.com
