@@ -30,13 +30,7 @@ This project uses the **ALICE fMRI dataset**, a naturalistic story-listening dat
 Download from:
 
 🔗 **OpenNeuro – ALICE fMRI dataset**  
-https://openneuro.org/datasets/ds004097
-
-This includes:
-- 15 participants  
-- Whole-brain fMRI  
-- Story audio aligned with TR  
-- Event markers & annotations  
+https://openneuro.org/datasets/ds002322/versions/1.0.0
 
 After downloading, place the data inside:
 
@@ -119,4 +113,4 @@ If you use this repository, please cite the ALICE dataset and this analysis pipe
 ## Contact  
 
 For questions or collaboration:  
-📧 arisha8809@gmail.com
+📧 arishagupta98@gmail.com
